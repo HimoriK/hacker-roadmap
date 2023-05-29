@@ -261,10 +261,8 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 # Additional resources
 
 - [Devbreak on Twitter](https://twitter.com/DevbreakFR)
-- [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
-- [Crack Station](http://crackstation.net/)
 - [Exploit Database](http://www.exploit-db.com/)
 - [Hackavision](http://www.hackavision.com/)
 - [Hackmethod](https://www.hackmethod.com/)
@@ -276,9 +274,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
 - [2017 Top 10 Application Security Risks](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 - [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
-
-## Books / Manuals
-All the books were useless
 
 ## Discussions
 - [Reddit/HowToHack](https://www.reddit.com/r/HowToHack/) Learn and ask about hacking, security and pen testing.
