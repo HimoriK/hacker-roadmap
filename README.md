@@ -2,11 +2,7 @@
     <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
 </p>
 
-This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
-
-## Status
-
-**This project has been archived**. Content might be outdated. Me and some friends are working on a brand new project that will take place here and replace the whole repository. The goal will remain the same: provide resources about professional information security for newcomers, with complete focus on training, certifications and job requirements. We don't expect this to come out before Q1 2023.
+This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. 
 
 ----
 
@@ -45,7 +41,6 @@ This repository is an overview of what you need to learn penetration testing and
   - [Discussions](#discussions)
   - [Security Advisories](#security-advisories)
   - [Challenges](#challenges)
-- [License](#license)
 
 (TOC made with [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/))
 
@@ -301,11 +296,5 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Ctftime](https://ctftime.org/) - The de facto website for everything CTF related. 
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs.
 - [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
-
-([Table of Contents](#table-of-contents))
-
-# License
-
-This repository is under MIT license.
 
 ([Table of Contents](#table-of-contents))
